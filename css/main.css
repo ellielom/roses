@@ -1,0 +1,23 @@
+body {
+    background-color: mistyrose;
+    font-family: Arial;
+    color: rosybrown;
+    text-align: center;
+}
+
+.main {
+
+}
+
+input {
+    background-color: rosybrown;
+    color: white;
+    border-radius: 0%;
+    border: none;
+    height: 50px;
+    width: 75px;
+}
+
+img {
+    padding: 5px;
+}
